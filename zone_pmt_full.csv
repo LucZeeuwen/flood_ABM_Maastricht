@@ -1,0 +1,4 @@
+zone,severity,vulnerability,self_efficacy,SES,num_agents,num_houses
+Randwyck,0.6,0.7,0.8,High,50,30
+Heugemerveld,0.7,0.8,0.4,Low,40,25
+Heugem,0.5,0.5,0.6,Medium,60,40

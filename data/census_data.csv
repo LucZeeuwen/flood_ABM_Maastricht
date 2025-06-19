@@ -1,0 +1,4 @@
+zone,num_agents,num_houses,severity,vulnerability,self_efficacy,response_efficacy,response_costs,SES,income_level,education_level,home_ownership_rate,flood_experience_rate,social_network_strength
+Heugemerveld,60,10,0.84,0.82,0.78,0.86,0.4,low,low,3,0.6,0.5,4
+Randwyck,45,8,0.40,0.38,0.90,0.76,0.36,high,high,5,0.8,0.3,2
+Heugem,30,9,0.70,0.68,0.64,0.82,0.5,medium,medium,4,0.7,0.4,3

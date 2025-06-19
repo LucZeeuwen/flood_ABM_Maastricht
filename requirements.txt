@@ -1,0 +1,9 @@
+mesa>=2.1.1
+pandas>=2.0.0
+matplotlib>=3.7.0
+geopandas>=0.13.0
+contextily>=1.2.0
+solara>=1.25.0
+plotly>=5.18.0
+numpy>=1.24.0
+shapely>=2.0.0
