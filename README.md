@@ -6,17 +6,17 @@ This project is an agent-based model built with `Mesa` (https://mesa.readthedocs
 
 ## Folder structure and important files
 
-**Root Level Files:**
+- **Root Level Files:**
     - `app.py` - Main Solara web application
     - `run.py` and run_simulation.py - Simulation entry points
     - `config.py` - Configuration settings
-**Core Directories:**
+- **Core Directories:**
     **agents/** - Contains agent definitions and behavior logic
         - `household.py` - Household agent implementation
         - `decision_logic.py` - PMT decision-making logic
     - **model/** - Main simulation model
         - `flood_model.py` - Core flood simulation model
-**Data Management:**
+- **Data Management:**
     - **data/** - Stores input data files
         - **Survey data**
         - **Flood scenario data**
