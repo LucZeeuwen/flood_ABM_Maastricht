@@ -11,7 +11,7 @@ This project is an agent-based model built with `Mesa` (https://mesa.readthedocs
     - `run.py` and run_simulation.py - Simulation entry points
     - `config.py` - Configuration settings
 - **Core Directories:**
-    **agents/** - Contains agent definitions and behavior logic
+    - **agents/** - Contains agent definitions and behavior logic
         - `household.py` - Household agent implementation
         - `decision_logic.py` - PMT decision-making logic
     - **model/** - Main simulation model
