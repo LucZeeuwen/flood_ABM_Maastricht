@@ -51,10 +51,3 @@ solara run app.py
 ```
 6. Open your webbrowser
 http://localhost:8080/proxy/8521/
-
----
-
-## Flood ABM - Visualization
-
-![img1](./output/mitigation_heatmap.PNG)
-![img2](./output/mitigation_steps_lineplot_coping_appraisal_increments.PNG)
